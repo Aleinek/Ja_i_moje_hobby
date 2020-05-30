@@ -61,6 +61,6 @@
 .icon-mail:before          { content: '\e802'; font-size: 76px; margin-top: 35px; } /* '' */
 .icon-wrench:before        { content: '\e800'; font-size: 76px; margin-top: 20px; } /* '' */
 .icon-user:before          { content: '\e801'; font-size: 76px; margin-top: 20px; } /* '' */
-.icon-mail-alt:before      { content: '\f0e0'; font-size: 76px; margin-top: 20px; } /* '' */
 .icon-laptop:before        { content: '\f109'; font-size: 76px; margin-top: 20px; } /* '' */
 .icon-gamepad:before       { content: '\f11b'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-mail-alt:before      { content: '\f0e0'; }                                    /* '' */

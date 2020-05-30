@@ -55,12 +55,12 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-facebook:before { content: '\f09a'; font-size: 76px; margin-top: 35px; } /* '' */
-.icon-twitter:before { content: '\f099'; font-size: 76px; margin-top: 35px; } /* '' */
-.icon-youtube-play:before { content: '\f16a'; font-size: 76px; margin-top: 35px; } /* '' */
-.icon-wrench:before { content: '\e800'; } /* '' */
-.icon-user:before { content: '\e801'; } /* '' */
-.icon-mail:before { content: '\e802'; } /* '' */
-.icon-mail-alt:before { content: '\f0e0'; } /* '' */
-.icon-laptop:before { content: '\f109'; } /* '' */
-.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-facebook:before      { content: '\f09a'; font-size: 76px; margin-top: 35px; } /* '' */
+.icon-twitter:before       { content: '\f099'; font-size: 76px; margin-top: 35px; } /* '' */
+.icon-youtube-play:before  { content: '\f16a'; font-size: 76px; margin-top: 35px; } /* '' */
+.icon-mail:before          { content: '\e802'; font-size: 76px; margin-top: 35px; } /* '' */
+.icon-wrench:before        { content: '\e800'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-user:before          { content: '\e801'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-mail-alt:before      { content: '\f0e0'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-laptop:before        { content: '\f109'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-gamepad:before       { content: '\f11b'; font-size: 76px; margin-top: 20px; } /* '' */
